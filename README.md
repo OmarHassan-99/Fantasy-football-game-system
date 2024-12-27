@@ -1,15 +1,3 @@
-## tasks
-User functionalities :Amr 
-Admin : 3abwa w abdullah 
-leagues and its data:  hos
-teams and footballers: besho
-The competion : Amr and O.H777
-bonus : mohamed 
-file manpulation : Amr and Mohamed 
+#Fantasy football game system
 
-
-for data collection :
-
-https://www.soccer24.com/spain/laliga-2021-2022/#/MPV5cuep/table/overall 
-
-https://ar.soccerway.com/national/spain/primera-division/20212022/regular-season/r63145/
+A Fantasy Football game developed in C++ using Object-Oriented Programming (OOP) and Data Structures to simulate the experience of managing a football team. Players can draft players, manage their teams, and compete in leagues based on real-life football statistics. The game incorporates key OOP principles such as classes, inheritance, polymorphism, and encapsulation, alongside data structures like arrays, linked lists, and hash maps for efficient player and team management.
